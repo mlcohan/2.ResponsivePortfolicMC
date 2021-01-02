@@ -34,7 +34,7 @@ The `Images` file contains six pictures that are utilized in the `index.html` fi
 
 * `contact.html`
     - Responsive Navbar with responsive links to all 3 pages
-    - Responsive Form Container with 3 inputs, `Name`, `Email`, `Comment`
+    - Responsive Form Container with 3 inputs, `Name`, `Email`, `Message`
 
 ### Still need to do
 
